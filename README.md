@@ -86,6 +86,11 @@ To run the application in a container; download the [source](https://github.com/
 
 1. [Configure](https://oracle-samples.github.io/ai-explorer/client/configuration/index.html) the **Explorer**.
 
+
+## Hands-on-lab Documentation
+To access the hands-on-lab documentation, click **[here](docs/hol/HOL_GUIDE.md)**.
+
+
 ## Contributing
 
 This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md).

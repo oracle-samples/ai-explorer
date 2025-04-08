@@ -26,3 +26,6 @@ From the `docs` directory:
 1. Start Hugo: `hugo serve`
 
 This will serve the documentation on `http://localhost:1313/ai-explorer/` for review.
+
+## Hands-on-lab Documentation
+To access the hands-on-lab documentation, click **[here](./hol/HOL_GUIDE.md)**.
